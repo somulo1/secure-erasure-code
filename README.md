@@ -1,7 +1,7 @@
 # Secure Erasure Code
 ## Overview
 
-The Secure Erasure Code project is designed to securely erase data from storage devices, ensuring that sensitive information cannot be recovered. This tool utilizes cryptographic techniques and secure data wiping algorithms to make the erasure process both efficient and reliable. The project is aimed at ensuring compliance with data security standards and protecting sensitive data in various environments such as government, enterprise, and personal use.
+The Secure Erasure Code project is designed to securely erase data from storage devices, ensuring that sensitive information cannot be leaked to unauthorised users. This tool utilizes cryptographic techniques and secure data wiping algorithms to make the erasure process both efficient and reliable. The project is aimed at ensuring compliance with data security standards and protecting sensitive data in various environments such as government, enterprise, and personal use.
 Features
 
     Secure Data Erasure: Uses advanced algorithms to securely overwrite data, ensuring it cannot be recovered using standard data recovery tools.
